@@ -61,6 +61,7 @@ export class Database {
                         '<='    : row[where_key] <= value,
                         'IN'    : row[where_key].includes(value),
                         'NOT_IN': !row[where_key].includes(value),
+                        'ILIKE': String(row[where_key]).toLowerCase().includes(value.toLowerCase())
                     }
 
                     if ( typeof(should_show_row) == 'undefined' ) {
