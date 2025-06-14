@@ -1,7 +1,7 @@
 
 # 🚀 Desafio Node.js - Fundamentos com CRUD de Tasks
 
-Este projeto é uma API desenvolvida como parte do desafio de fundamentos do Node.js da [Rocketseat](https://www.rocketseat.com.br/).  
+Este projeto é uma API desenvolvida como parte do [desafio](https://efficient-sloth-d85.notion.site/Desafio-01-2d48608f47644519a408b438b52d913f) de fundamentos do Node.js da [Rocketseat](https://www.rocketseat.com.br/).  
 A aplicação realiza o gerenciamento de tarefas (tasks), com funcionalidades de **CRUD completo**, além de **importação e exportação de dados via CSV** como funcionalidades extras.
 
 ---
